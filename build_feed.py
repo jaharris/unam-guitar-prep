@@ -210,30 +210,64 @@ def day_rank_from_title(title: str) -> tuple[int, int, str]:
     return day, optional, nt
 
 
+def course_week_for_day(day: int) -> int:
+    """Map course days to Apple Podcast seasons: Week 1/2/3 -> Season 1/2/3."""
+    if 1 <= day <= 7:
+        return 1
+    if 8 <= day <= 14:
+        return 2
+    if 15 <= day <= 21:
+        return 3
+    # Keep any future/out-of-range extras in a final catch-all season rather than
+    # silently folding them into Week 1.
+    return 4
+
+
 def normalize_course_order(channel: ET.Element) -> None:
     items = list(channel.findall("item"))
     items.sort(key=lambda el: day_rank_from_title(child_text(el, "title")))
     for item in items:
         channel.remove(item)
+
+    # Apple displays these as Season 1, Season 2, Season 3. In this study feed
+    # those correspond exactly to Week 1 (Days 1-7), Week 2 (Days 8-14), and
+    # Week 3 (Days 15-21). Episode numbering restarts within each season.
+    season_episode_counts: dict[int, int] = {}
     base_dt = datetime(2026, 9, 29, 12, 30, tzinfo=timezone.utc)
-    for idx, item in enumerate(items, start=1):
+
+    for global_idx, item in enumerate(items, start=1):
+        title = child_text(item, "title")
+        day, _, _ = day_rank_from_title(title)
+        week = course_week_for_day(day)
+        season_episode_counts[week] = season_episode_counts.get(week, 0) + 1
+        episode_in_week = season_episode_counts[week]
+
         pub = item.find("pubDate")
         if pub is None:
             pub = ET.SubElement(item, "pubDate")
-        dt = base_dt - timedelta(minutes=idx - 1)
+        dt = base_dt - timedelta(minutes=global_idx - 1)
         pub.text = dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
+
         season = item.find(f"{{{ITUNES}}}season")
         if season is None:
             season = ET.SubElement(item, f"{{{ITUNES}}}season")
-        season.text = "1"
+        season.text = str(week)
+
         ep = item.find(f"{{{ITUNES}}}episode")
         if ep is None:
             ep = ET.SubElement(item, f"{{{ITUNES}}}episode")
-        ep.text = str(idx)
+        ep.text = str(episode_in_week)
+
         ep_type = item.find(f"{{{ITUNES}}}episodeType")
         if ep_type is None:
             ep_type = ET.SubElement(item, f"{{{ITUNES}}}episodeType")
         ep_type.text = "full"
+
+        week_el = item.find(f"{{{STUDY}}}week")
+        if week_el is None:
+            week_el = ET.SubElement(item, f"{{{STUDY}}}week")
+        week_el.text = f"Week {week}"
+
         channel.append(item)
 
 
