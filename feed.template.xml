@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+ xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:study="https://example.invalid/unam-guitar-study/1.0">
+  <channel>
+    <title>UNAM Guitar Prep — 3-Week Listening Course</title>
+    <link>https://jaharris.github.io/unam-guitar-prep/</link>
+    <atom:link href="https://jaharris.github.io/unam-guitar-prep/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>es</language>
+    <description>Private, curated listening feed for the three-week UNAM classical-guitar preparation program. Playable items are drawn from public broadcaster/direct podcast media. External-only supplements are preserved as custom study:supplement links in the XML.</description>
+    <itunes:author>UNAM Guitar Prep — private study feed</itunes:author>
+    <itunes:summary>Three-week Spanish listening-comprehension sequence for 20th- and 21st-century classical guitar history, repertoire, pedagogy, and performance.</itunes:summary>
+    <itunes:type>serial</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>yes</itunes:block>
+    <itunes:complete>yes</itunes:complete>
+    <lastBuildDate>Tue, 29 Sep 2026 12:00:00 +0000</lastBuildDate>
+    <generator>OpenAI — curated study-feed builder</generator>
+
+    <!-- External-only course resources. Apple Podcasts ignores the custom study namespace; these remain machine-readable in the XML. -->
+    <study:supplement day="Day 1" title="Guitarras del Mundo — Francisco Tárrega: El Rey de la Guitarra" href="https://podcasts.apple.com/us/podcast/guitarras-del-mundo/id1787567076?i=1000705864843" note="Apple transcript available in supported regions."/>
+    <study:supplement day="Day 4" title="Guitarras del Mundo — Lauro interpreta sus propias obras / Antonio Lauro interview" href="https://podcasts.apple.com/us/podcast/guitarras-del-mundo/id1787567076" note="Search the show for “Lauro interpreta sus propias obras” or T2 Ep.13 “Escuchemos la voz de Antonio Lauro en entrevista”."/>
+    <study:supplement day="Day 10" title="Guitarras del Mundo — Toru Takemitsu: La poesía del silencio" href="https://podcasts.apple.com/us/podcast/tp2-ep-16-toru-takemitsu-la-poes%C3%ADa-del-silencio-guitarrista/id1787567076?i=1000710344888" note="Apple transcript-friendly source."/>
+    <study:supplement day="Day 11" title="Música en México — Charla Musical con Robbin Blanco" href="https://musicaenmexico.com.mx/musicomania/charla-musical-con-robbin-blanco-guitarrista-compositor-productor-y-profesor/" note="Video/interview; use page transcript or video captions when available."/>
+    <study:supplement day="Day 12" title="Centenario de Abel Carlevaro — Programa Nº 36" href="https://zeno.fm/podcast/centenario-de-abel-carlevaro/episodes/centenario-de-abel-carlevaro-programa-n-36-emitido-el-26-de-setiembre-de-2016/" note="Uruguayan program with Carlevaro interview excerpts recorded in Lima."/>
+    <study:supplement day="Day 15" title="Leo Brouwer — interview with César Amaro" href="https://www.youtube.com/watch?v=_cgDjC40NfE" note="YouTube video; use Show transcript when captions are available."/>
+    <study:supplement day="Day 16" title="Berta Rojas — Al Punto" href="https://www.univision.com/shows/al-punto/jorge-ramos-toca-la-guitarra-y-comparte-su-amor-por-la-musica-con-la-guitarrista-berta-rojas-video" note="Mexican interviewer + Paraguayan guest."/>
+    <study:supplement day="Day 16" title="Berta Rojas — Sin Filtro (longer alternative)" href="https://www.abc.com.py/podcasts/sin-filtro/2023/03/29/sin-filtro-capitulo-7-berta-rojas-sirvo-al-paraguay-con-honestidad-y-amor/" note="Long-form Paraguayan interview."/>
+    <study:supplement day="Day 17" title="Guitarras del Mundo — Sharon Isbin interview / Guitar Passions" href="https://podcasts.apple.com/us/podcast/t2-ep20-sharin-isbin-entrevista-exclusiva-y-su-album/id1787567076?i=1000724802295" note="Apple transcript-friendly source."/>
+    <study:supplement day="Day 18" title="Guitarras del Mundo — Reflexiones en torno a la guitarra" href="https://podcasts.apple.com/us/podcast/t2-ep-15-reflexiones-en-torno-a-la-guitarra/id1787567076?i=1000706621172" note="Apple transcript-friendly source."/>
+    <study:supplement day="Day 21" title="Guitarras del Mundo — Laura Mazón Franqui: la guitarra y su historia" href="https://podcasts.apple.com/es/podcast/hablamos-con-laura-maz%C3%B3n-franqui-la-guitarra-y-su-historia/id1787567076?i=1000772705781" note="Final synthesis; Apple transcript-friendly source."/>
+
+    <item>
+      <title>Days 2–3 — Manuel López Ramos — pedagogy, Ponce, Segovia, and the Mexican guitar tradition</title>
+      <link>https://www.ivoox.com/4-entrevista-maestro-manuel-lopez-ramos-audios-mp3_rf_100737846_1.html</link>
+      <guid isPermaLink="false">unam-guitar-prep-w1-e1-1</guid>
+      <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[<p><strong>Days 2–3</strong></p><p>Used on Days 2 and 3. The iVoox episode page includes the machine-generated “Lee el podcast” transcript.</p><p><a href="https://www.ivoox.com/4-entrevista-maestro-manuel-lopez-ramos-audios-mp3_rf_100737846_1.html">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></description>
+      <content:encoded><![CDATA[<p><strong>Days 2–3</strong></p><p>Used on Days 2 and 3. The iVoox episode page includes the machine-generated “Lee el podcast” transcript.</p><p><a href="https://www.ivoox.com/4-entrevista-maestro-manuel-lopez-ramos-audios-mp3_rf_100737846_1.html">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></content:encoded>
+      <enclosure url="https://www.ivoox.com/4-entrevista-maestro-manuel-lopez-ramos_mf_100737846_feed_1.m4a" length="0" type="audio/x-m4a"/>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>59:39</itunes:duration>
+    </item>
+
+    <item>
+      <title>Day 5 — Alfonso Moreno — Ponce, recordings, timbre, and Mexican concert culture</title>
+      <link>https://www.ivoox.com/5-entrevista-con-alfonso-moreno-audios-mp3_rf_100760598_1.html</link>
+      <guid isPermaLink="false">unam-guitar-prep-w1-e2-2</guid>
+      <pubDate>Tue, 29 Sep 2026 11:59:00 +0000</pubDate>
+      <description><![CDATA[<p><strong>Day 5</strong></p><p>Core Day 5 listening. The source page includes iVoox’s machine transcript.</p><p><a href="https://www.ivoox.com/5-entrevista-con-alfonso-moreno-audios-mp3_rf_100760598_1.html">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></description>
+      <content:encoded><![CDATA[<p><strong>Day 5</strong></p><p>Core Day 5 listening. The source page includes iVoox’s machine transcript.</p><p><a href="https://www.ivoox.com/5-entrevista-con-alfonso-moreno-audios-mp3_rf_100760598_1.html">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></content:encoded>
+      <enclosure url="https://www.ivoox.com/5-entrevista-con-alfonso-moreno_mf_100760598_feed_1.m4a" length="0" type="audio/x-m4a"/>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>57:45</itunes:duration>
+    </item>
+
+    <item>
+      <title>Day 5 — optional — Alfonso Moreno, Part II — competitions, career, and Mexican guitar history</title>
+      <link>https://www.ivoox.com/6-entrevista-alfonso-moreno-2-2-audios-mp3_rf_100760828_1.html</link>
+      <guid isPermaLink="false">unam-guitar-prep-w1-e3-3</guid>
+      <pubDate>Tue, 29 Sep 2026 11:58:00 +0000</pubDate>
+      <description><![CDATA[<p><strong>Day 5 — optional</strong></p><p>Optional continuation of the Day 5 interview.</p><p><a href="https://www.ivoox.com/6-entrevista-alfonso-moreno-2-2-audios-mp3_rf_100760828_1.html">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></description>
+      <content:encoded><![CDATA[<p><strong>Day 5 — optional</strong></p><p>Optional continuation of the Day 5 interview.</p><p><a href="https://www.ivoox.com/6-entrevista-alfonso-moreno-2-2-audios-mp3_rf_100760828_1.html">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></content:encoded>
+      <enclosure url="https://www.ivoox.com/6-entrevista-alfonso-moreno-2-2_mf_100760828_feed_1.m4a" length="0" type="audio/x-m4a"/>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>59:17</itunes:duration>
+    </item>
+
+    <item>
+      <title>Day 6 — Marina Tomei — Alma Antigüa: Ponce, Spain/Mexico, and the 1930s</title>
+      <link>https://www.imer.mx/programas/programas/diagonales/</link>
+      <guid isPermaLink="false">unam-guitar-prep-w1-e4-4</guid>
+      <pubDate>Tue, 29 Sep 2026 11:57:00 +0000</pubDate>
+      <description><![CDATA[<p><strong>Day 6</strong></p><p>Mexican/UNAM mini-class simulation. Direct MP3 hosted by IMER.</p><p><a href="https://www.imer.mx/programas/programas/diagonales/">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></description>
+      <content:encoded><![CDATA[<p><strong>Day 6</strong></p><p>Mexican/UNAM mini-class simulation. Direct MP3 hosted by IMER.</p><p><a href="https://www.imer.mx/programas/programas/diagonales/">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></content:encoded>
+      <enclosure url="https://www.imer.mx/programas/wp-content/uploads/sites/77/2024/07/Diagonales_146_Disco-Alma-Antigua_Marina-Tomei_15072024.Diagonales_146_Disco-Alma-Antigua_Marina-Tomei_15072024.Diagonales_146_Disco-Alma-Antigua_Marina-Tomei_15072024.mp3" length="0" type="audio/mpeg"/>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Day 8 — Carlos Ávila Aréchiga — contemporary repertoire in Mexico</title>
+      <link>https://www.ivoox.com/8-entrevista-carlos-avila-arechiga-audios-mp3_rf_100775030_1.html</link>
+      <guid isPermaLink="false">unam-guitar-prep-w2-e1-5</guid>
+      <pubDate>Tue, 29 Sep 2026 11:56:00 +0000</pubDate>
+      <description><![CDATA[<p><strong>Day 8</strong></p><p>Training, concerts, recordings, and contemporary Mexican guitar music. The source page includes a machine transcript.</p><p><a href="https://www.ivoox.com/8-entrevista-carlos-avila-arechiga-audios-mp3_rf_100775030_1.html">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></description>
+      <content:encoded><![CDATA[<p><strong>Day 8</strong></p><p>Training, concerts, recordings, and contemporary Mexican guitar music. The source page includes a machine transcript.</p><p><a href="https://www.ivoox.com/8-entrevista-carlos-avila-arechiga-audios-mp3_rf_100775030_1.html">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></content:encoded>
+      <enclosure url="https://www.ivoox.com/8-entrevista-carlos-avila-arechiga_mf_100775030_feed_1.m4a" length="0" type="audio/x-m4a"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>56:56</itunes:duration>
+    </item>
+
+    <item>
+      <title>Day 9 — César Lara — making a recording in Mexico: Disco Alevín</title>
+      <link>https://www.imer.mx/programas/programas/diagonales/</link>
+      <guid isPermaLink="false">unam-guitar-prep-w2-e2-6</guid>
+      <pubDate>Tue, 29 Sep 2026 11:55:00 +0000</pubDate>
+      <description><![CDATA[<p><strong>Day 9</strong></p><p>Direct MP3 hosted by IMER.</p><p><a href="https://www.imer.mx/programas/programas/diagonales/">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></description>
+      <content:encoded><![CDATA[<p><strong>Day 9</strong></p><p>Direct MP3 hosted by IMER.</p><p><a href="https://www.imer.mx/programas/programas/diagonales/">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></content:encoded>
+      <enclosure url="https://www.imer.mx/programas/wp-content/uploads/sites/77/2024/08/Diagonales_149_Disco-Alevin_Cesar-Lara_05082024.mp3" length="0" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Day 13 — Julio César Oliva — Mexican guitarist-composer, Part I</title>
+      <link>https://www.ivoox.com/13-juan-reyes-entrevista-a-julio-c-oliva-audios-mp3_rf_102967789_1.html</link>
+      <guid isPermaLink="false">unam-guitar-prep-w2-e3-7</guid>
+      <pubDate>Tue, 29 Sep 2026 11:54:00 +0000</pubDate>
+      <description><![CDATA[<p><strong>Day 13</strong></p><p>Core Day 13 listening. The source page includes a machine transcript.</p><p><a href="https://www.ivoox.com/13-juan-reyes-entrevista-a-julio-c-oliva-audios-mp3_rf_102967789_1.html">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></description>
+      <content:encoded><![CDATA[<p><strong>Day 13</strong></p><p>Core Day 13 listening. The source page includes a machine transcript.</p><p><a href="https://www.ivoox.com/13-juan-reyes-entrevista-a-julio-c-oliva-audios-mp3_rf_102967789_1.html">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></content:encoded>
+      <enclosure url="https://www.ivoox.com/13-juan-reyes-entrevista-a-julio-c-oliva_mf_102967789_feed_1.m4a" length="0" type="audio/x-m4a"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>59:29</itunes:duration>
+    </item>
+
+    <item>
+      <title>Day 13 — optional — Julio César Oliva — Part II</title>
+      <link>https://www.ivoox.com/14-juan-reyes-entrevista-a-julio-cesar-oliva-audios-mp3_rf_102968081_1.html</link>
+      <guid isPermaLink="false">unam-guitar-prep-w2-e4-8</guid>
+      <pubDate>Tue, 29 Sep 2026 11:53:00 +0000</pubDate>
+      <description><![CDATA[<p><strong>Day 13 — optional</strong></p><p>Optional continuation: career, compositions, and guitar work.</p><p><a href="https://www.ivoox.com/14-juan-reyes-entrevista-a-julio-cesar-oliva-audios-mp3_rf_102968081_1.html">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></description>
+      <content:encoded><![CDATA[<p><strong>Day 13 — optional</strong></p><p>Optional continuation: career, compositions, and guitar work.</p><p><a href="https://www.ivoox.com/14-juan-reyes-entrevista-a-julio-cesar-oliva-audios-mp3_rf_102968081_1.html">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></content:encoded>
+      <enclosure url="https://www.ivoox.com/14-juan-reyes-entrevista-a-julio-cesar-oliva_mf_102968081_feed_1.m4a" length="0" type="audio/x-m4a"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>59:53</itunes:duration>
+    </item>
+
+    <item>
+      <title>Day 13 — optional — Julio César Oliva — Part III</title>
+      <link>https://www.ivoox.com/15-juan-reyes-entrevista-a-julio-c-oliva-parte-audios-mp3_rf_102968814_1.html</link>
+      <guid isPermaLink="false">unam-guitar-prep-w2-e5-9</guid>
+      <pubDate>Tue, 29 Sep 2026 11:52:00 +0000</pubDate>
+      <description><![CDATA[<p><strong>Day 13 — optional</strong></p><p>Optional continuation and final part.</p><p><a href="https://www.ivoox.com/15-juan-reyes-entrevista-a-julio-c-oliva-parte-audios-mp3_rf_102968814_1.html">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></description>
+      <content:encoded><![CDATA[<p><strong>Day 13 — optional</strong></p><p>Optional continuation and final part.</p><p><a href="https://www.ivoox.com/15-juan-reyes-entrevista-a-julio-c-oliva-parte-audios-mp3_rf_102968814_1.html">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></content:encoded>
+      <enclosure url="https://www.ivoox.com/15-juan-reyes-entrevista-a-julio-c-oliva-parte_mf_102968814_feed_1.m4a" length="0" type="audio/x-m4a"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>1:01:30</itunes:duration>
+    </item>
+
+    <item>
+      <title>Day 14 — Trivium Guit-Art — concert guitar and Mexican regional repertoire</title>
+      <link>https://www.imer.mx/rmi/trivium-guit-art/</link>
+      <guid isPermaLink="false">unam-guitar-prep-w2-e6-10</guid>
+      <pubDate>Tue, 29 Sep 2026 11:51:00 +0000</pubDate>
+      <description><![CDATA[<p><strong>Day 14</strong></p><p>Unfamiliar-speaker test. Direct MP3 hosted by IMER.</p><p><a href="https://www.imer.mx/rmi/trivium-guit-art/">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></description>
+      <content:encoded><![CDATA[<p><strong>Day 14</strong></p><p>Unfamiliar-speaker test. Direct MP3 hosted by IMER.</p><p><a href="https://www.imer.mx/rmi/trivium-guit-art/">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></content:encoded>
+      <enclosure url="https://www.imer.mx/rmi/wp-content/uploads/sites/3/2017/09/entrevista_trivium_guit_art.mp3" length="0" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Day 19 — Miguel Ángel Torres Franco — contemporary repertoire and a young Mexican guitarist</title>
+      <link>https://www.ivoox.com/16-entrevista-con-miguel-angel-torres-franco-audios-mp3_rf_106275412_1.html</link>
+      <guid isPermaLink="false">unam-guitar-prep-w3-e1-11</guid>
+      <pubDate>Tue, 29 Sep 2026 11:50:00 +0000</pubDate>
+      <description><![CDATA[<p><strong>Day 19</strong></p><p>Core Day 19 listening. The source page includes a machine transcript.</p><p><a href="https://www.ivoox.com/16-entrevista-con-miguel-angel-torres-franco-audios-mp3_rf_106275412_1.html">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></description>
+      <content:encoded><![CDATA[<p><strong>Day 19</strong></p><p>Core Day 19 listening. The source page includes a machine transcript.</p><p><a href="https://www.ivoox.com/16-entrevista-con-miguel-angel-torres-franco-audios-mp3_rf_106275412_1.html">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></content:encoded>
+      <enclosure url="https://www.ivoox.com/16-entrevista-con-miguel-angel-torres-franco_mf_106275412_feed_1.m4a" length="0" type="audio/x-m4a"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>59:09</itunes:duration>
+    </item>
+
+    <item>
+      <title>Day 19 — optional — Miguel Ángel Torres Franco — Part II</title>
+      <link>https://www.ivoox.com/en/17-entrevista-miguel-angel-torres-audios-mp3_rf_106277111_1.html</link>
+      <guid isPermaLink="false">unam-guitar-prep-w3-e2-12</guid>
+      <pubDate>Tue, 29 Sep 2026 11:49:00 +0000</pubDate>
+      <description><![CDATA[<p><strong>Day 19 — optional</strong></p><p>Optional continuation, including Brouwer and contemporary Mexican activity.</p><p><a href="https://www.ivoox.com/en/17-entrevista-miguel-angel-torres-audios-mp3_rf_106277111_1.html">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></description>
+      <content:encoded><![CDATA[<p><strong>Day 19 — optional</strong></p><p>Optional continuation, including Brouwer and contemporary Mexican activity.</p><p><a href="https://www.ivoox.com/en/17-entrevista-miguel-angel-torres-audios-mp3_rf_106277111_1.html">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></content:encoded>
+      <enclosure url="https://www.ivoox.com/17-entrevista-miguel-angel-torres_mf_106277111_feed_1.m4a" length="0" type="audio/x-m4a"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>53:34</itunes:duration>
+    </item>
+
+    <item>
+      <title>Day 20 — Dúo Tsiskari / Antonio López — full Mexican listening simulation</title>
+      <link>https://www.imer.mx/programas/programas/diagonales/</link>
+      <guid isPermaLink="false">unam-guitar-prep-w3-e3-13</guid>
+      <pubDate>Tue, 29 Sep 2026 11:48:00 +0000</pubDate>
+      <description><![CDATA[<p><strong>Day 20</strong></p><p>Core Day 20 simulation. Direct MP3 hosted by IMER.</p><p><a href="https://www.imer.mx/programas/programas/diagonales/">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></description>
+      <content:encoded><![CDATA[<p><strong>Day 20</strong></p><p>Core Day 20 simulation. Direct MP3 hosted by IMER.</p><p><a href="https://www.imer.mx/programas/programas/diagonales/">Original source / transcript page</a></p><p>Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.</p>]]></content:encoded>
+      <enclosure url="https://www.imer.mx/programas/wp-content/uploads/sites/77/2025/02/Diagonales_175_Duo-Tsiskari_Antonio-Lopez_03022025.mp3" length="0" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>

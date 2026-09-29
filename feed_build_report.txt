@@ -1,0 +1,2 @@
+Initial package build: the checked-in feed.xml is the verified base feed.
+After these files are uploaded to GitHub, the Build curated podcast feed action will resolve the Guitarras del Mundo publisher RSS feed through Apple's public Lookup API and add the selected Apple-listed episodes as playable items when public enclosures are available.
