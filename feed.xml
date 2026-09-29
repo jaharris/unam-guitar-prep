@@ -36,6 +36,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
+      <study:week>Week 1</study:week>
     </item>
     <item>
       <title>Days 2–3 — Manuel López Ramos — pedagogy, Ponce, Segovia, and the Mexican guitar tradition</title>
@@ -50,6 +51,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>59:39</itunes:duration>
+      <study:week>Week 1</study:week>
     </item>
     <item>
       <title>Day 4 — Guitarras del Mundo — Lauro interpreta sus propias obras</title>
@@ -68,6 +70,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
+      <study:week>Week 1</study:week>
     </item>
     <item>
       <title>Day 4 — alternative — Antonio Lauro in interview</title>
@@ -86,6 +89,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
+      <study:week>Week 1</study:week>
     </item>
     <item>
       <title>Day 5 — Alfonso Moreno — Ponce, recordings, timbre, and Mexican concert culture</title>
@@ -100,6 +104,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>57:45</itunes:duration>
+      <study:week>Week 1</study:week>
     </item>
     <item>
       <title>Day 5 — optional — Alfonso Moreno, Part II — competitions, career, and Mexican guitar history</title>
@@ -114,6 +119,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>59:17</itunes:duration>
+      <study:week>Week 1</study:week>
     </item>
     <item>
       <title>Day 6 — Marina Tomei — Alma Antigüa: Ponce, Spain/Mexico, and the 1930s</title>
@@ -127,6 +133,7 @@
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
+      <study:week>Week 1</study:week>
     </item>
     <item>
       <title>Day 8 — Carlos Ávila Aréchiga — contemporary repertoire in Mexico</title>
@@ -136,11 +143,12 @@
       <description>&lt;p&gt;&lt;strong&gt;Day 8&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Training, concerts, recordings, and contemporary Mexican guitar music. The source page includes a machine transcript.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ivoox.com/8-entrevista-carlos-avila-arechiga-audios-mp3_rf_100775030_1.html"&gt;Original source / transcript page&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Day 8&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Training, concerts, recordings, and contemporary Mexican guitar music. The source page includes a machine transcript.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ivoox.com/8-entrevista-carlos-avila-arechiga-audios-mp3_rf_100775030_1.html"&gt;Original source / transcript page&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.&lt;/p&gt;</content:encoded>
       <enclosure url="https://www.ivoox.com/8-entrevista-carlos-avila-arechiga_mf_100775030_feed_1.m4a" length="0" type="audio/x-m4a" />
-      <itunes:season>1</itunes:season>
-      <itunes:episode>8</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>56:56</itunes:duration>
+      <study:week>Week 2</study:week>
     </item>
     <item>
       <title>Day 9 — César Lara — making a recording in Mexico: Disco Alevín</title>
@@ -150,10 +158,11 @@
       <description>&lt;p&gt;&lt;strong&gt;Day 9&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Direct MP3 hosted by IMER.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.imer.mx/programas/programas/diagonales/"&gt;Original source / transcript page&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Day 9&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Direct MP3 hosted by IMER.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.imer.mx/programas/programas/diagonales/"&gt;Original source / transcript page&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.&lt;/p&gt;</content:encoded>
       <enclosure url="https://www.imer.mx/programas/wp-content/uploads/sites/77/2024/08/Diagonales_149_Disco-Alevin_Cesar-Lara_05082024.mp3" length="0" type="audio/mpeg" />
-      <itunes:season>1</itunes:season>
-      <itunes:episode>9</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
+      <study:week>Week 2</study:week>
     </item>
     <item>
       <title>Day 10 — Guitarras del Mundo — Toru Takemitsu: La poesía del silencio</title>
@@ -169,9 +178,10 @@
       <study:courseDay>10</study:courseDay>
       <study:courseRank>0</study:courseRank>
       <pubDate>Tue, 29 Sep 2026 12:21:00 +0000</pubDate>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>10</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
+      <study:week>Week 2</study:week>
     </item>
     <item>
       <title>Day 13 — Julio César Oliva — Mexican guitarist-composer, Part I</title>
@@ -181,11 +191,12 @@
       <description>&lt;p&gt;&lt;strong&gt;Day 13&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Core Day 13 listening. The source page includes a machine transcript.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ivoox.com/13-juan-reyes-entrevista-a-julio-c-oliva-audios-mp3_rf_102967789_1.html"&gt;Original source / transcript page&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Day 13&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Core Day 13 listening. The source page includes a machine transcript.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ivoox.com/13-juan-reyes-entrevista-a-julio-c-oliva-audios-mp3_rf_102967789_1.html"&gt;Original source / transcript page&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.&lt;/p&gt;</content:encoded>
       <enclosure url="https://www.ivoox.com/13-juan-reyes-entrevista-a-julio-c-oliva_mf_102967789_feed_1.m4a" length="0" type="audio/x-m4a" />
-      <itunes:season>1</itunes:season>
-      <itunes:episode>11</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>59:29</itunes:duration>
+      <study:week>Week 2</study:week>
     </item>
     <item>
       <title>Day 13 — optional — Julio César Oliva — Part II</title>
@@ -195,11 +206,12 @@
       <description>&lt;p&gt;&lt;strong&gt;Day 13 — optional&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Optional continuation: career, compositions, and guitar work.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ivoox.com/14-juan-reyes-entrevista-a-julio-cesar-oliva-audios-mp3_rf_102968081_1.html"&gt;Original source / transcript page&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Day 13 — optional&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Optional continuation: career, compositions, and guitar work.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ivoox.com/14-juan-reyes-entrevista-a-julio-cesar-oliva-audios-mp3_rf_102968081_1.html"&gt;Original source / transcript page&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.&lt;/p&gt;</content:encoded>
       <enclosure url="https://www.ivoox.com/14-juan-reyes-entrevista-a-julio-cesar-oliva_mf_102968081_feed_1.m4a" length="0" type="audio/x-m4a" />
-      <itunes:season>1</itunes:season>
-      <itunes:episode>12</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>59:53</itunes:duration>
+      <study:week>Week 2</study:week>
     </item>
     <item>
       <title>Day 13 — optional — Julio César Oliva — Part III</title>
@@ -209,11 +221,12 @@
       <description>&lt;p&gt;&lt;strong&gt;Day 13 — optional&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Optional continuation and final part.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ivoox.com/15-juan-reyes-entrevista-a-julio-c-oliva-parte-audios-mp3_rf_102968814_1.html"&gt;Original source / transcript page&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Day 13 — optional&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Optional continuation and final part.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ivoox.com/15-juan-reyes-entrevista-a-julio-c-oliva-parte-audios-mp3_rf_102968814_1.html"&gt;Original source / transcript page&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.&lt;/p&gt;</content:encoded>
       <enclosure url="https://www.ivoox.com/15-juan-reyes-entrevista-a-julio-c-oliva-parte_mf_102968814_feed_1.m4a" length="0" type="audio/x-m4a" />
-      <itunes:season>1</itunes:season>
-      <itunes:episode>13</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>1:01:30</itunes:duration>
+      <study:week>Week 2</study:week>
     </item>
     <item>
       <title>Day 14 — Trivium Guit-Art — concert guitar and Mexican regional repertoire</title>
@@ -223,10 +236,11 @@
       <description>&lt;p&gt;&lt;strong&gt;Day 14&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Unfamiliar-speaker test. Direct MP3 hosted by IMER.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.imer.mx/rmi/trivium-guit-art/"&gt;Original source / transcript page&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Day 14&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Unfamiliar-speaker test. Direct MP3 hosted by IMER.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.imer.mx/rmi/trivium-guit-art/"&gt;Original source / transcript page&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.&lt;/p&gt;</content:encoded>
       <enclosure url="https://www.imer.mx/rmi/wp-content/uploads/sites/3/2017/09/entrevista_trivium_guit_art.mp3" length="0" type="audio/mpeg" />
-      <itunes:season>1</itunes:season>
-      <itunes:episode>14</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
+      <study:week>Week 2</study:week>
     </item>
     <item>
       <title>Day 17 — Guitarras del Mundo — Sharon Isbin interview / Guitar Passions</title>
@@ -242,9 +256,10 @@
       <study:courseDay>17</study:courseDay>
       <study:courseRank>0</study:courseRank>
       <pubDate>Tue, 29 Sep 2026 12:16:00 +0000</pubDate>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>15</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
+      <study:week>Week 3</study:week>
     </item>
     <item>
       <title>Day 18 — Guitarras del Mundo — Reflexiones en torno a la guitarra</title>
@@ -260,9 +275,10 @@
       <study:courseDay>18</study:courseDay>
       <study:courseRank>0</study:courseRank>
       <pubDate>Tue, 29 Sep 2026 12:15:00 +0000</pubDate>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>16</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
+      <study:week>Week 3</study:week>
     </item>
     <item>
       <title>Day 19 — Miguel Ángel Torres Franco — contemporary repertoire and a young Mexican guitarist</title>
@@ -272,11 +288,12 @@
       <description>&lt;p&gt;&lt;strong&gt;Day 19&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Core Day 19 listening. The source page includes a machine transcript.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ivoox.com/16-entrevista-con-miguel-angel-torres-franco-audios-mp3_rf_106275412_1.html"&gt;Original source / transcript page&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Day 19&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Core Day 19 listening. The source page includes a machine transcript.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ivoox.com/16-entrevista-con-miguel-angel-torres-franco-audios-mp3_rf_106275412_1.html"&gt;Original source / transcript page&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.&lt;/p&gt;</content:encoded>
       <enclosure url="https://www.ivoox.com/16-entrevista-con-miguel-angel-torres-franco_mf_106275412_feed_1.m4a" length="0" type="audio/x-m4a" />
-      <itunes:season>1</itunes:season>
-      <itunes:episode>17</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>59:09</itunes:duration>
+      <study:week>Week 3</study:week>
     </item>
     <item>
       <title>Day 19 — optional — Miguel Ángel Torres Franco — Part II</title>
@@ -286,11 +303,12 @@
       <description>&lt;p&gt;&lt;strong&gt;Day 19 — optional&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Optional continuation, including Brouwer and contemporary Mexican activity.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ivoox.com/en/17-entrevista-miguel-angel-torres-audios-mp3_rf_106277111_1.html"&gt;Original source / transcript page&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Day 19 — optional&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Optional continuation, including Brouwer and contemporary Mexican activity.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ivoox.com/en/17-entrevista-miguel-angel-torres-audios-mp3_rf_106277111_1.html"&gt;Original source / transcript page&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.&lt;/p&gt;</content:encoded>
       <enclosure url="https://www.ivoox.com/17-entrevista-miguel-angel-torres_mf_106277111_feed_1.m4a" length="0" type="audio/x-m4a" />
-      <itunes:season>1</itunes:season>
-      <itunes:episode>18</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>53:34</itunes:duration>
+      <study:week>Week 3</study:week>
     </item>
     <item>
       <title>Day 20 — Dúo Tsiskari / Antonio López — full Mexican listening simulation</title>
@@ -300,10 +318,11 @@
       <description>&lt;p&gt;&lt;strong&gt;Day 20&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Core Day 20 simulation. Direct MP3 hosted by IMER.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.imer.mx/programas/programas/diagonales/"&gt;Original source / transcript page&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Day 20&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Core Day 20 simulation. Direct MP3 hosted by IMER.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.imer.mx/programas/programas/diagonales/"&gt;Original source / transcript page&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Study method: Pass 1 for gist without transcript; Pass 2 for structure and discourse markers; Pass 3 for detail, transcript checking, shadowing, and a 60–90 second Spanish summary.&lt;/p&gt;</content:encoded>
       <enclosure url="https://www.imer.mx/programas/wp-content/uploads/sites/77/2025/02/Diagonales_175_Duo-Tsiskari_Antonio-Lopez_03022025.mp3" length="0" type="audio/mpeg" />
-      <itunes:season>1</itunes:season>
-      <itunes:episode>19</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
+      <study:week>Week 3</study:week>
     </item>
     <item>
       <title>Day 21 — Guitarras del Mundo — Laura Mazón Franqui: la guitarra y su historia</title>
@@ -319,9 +338,10 @@
       <study:courseDay>21</study:courseDay>
       <study:courseRank>0</study:courseRank>
       <pubDate>Tue, 29 Sep 2026 12:11:00 +0000</pubDate>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>20</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
+      <study:week>Week 3</study:week>
     </item>
   </channel>
 </rss>
