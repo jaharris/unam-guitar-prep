@@ -1,2 +1,10 @@
-Initial package build: the checked-in feed.xml is the verified base feed.
-After these files are uploaded to GitHub, the Build curated podcast feed action will resolve the Guitarras del Mundo publisher RSS feed through Apple's public Lookup API and add the selected Apple-listed episodes as playable items when public enclosures are available.
+Resolved Guitarras del Mundo source feed: https://anchor.fm/s/f81edbbc/podcast/rss
+Added 7 Guitarras del Mundo item(s).
+ADDED: Day 1 — Guitarras del Mundo — Francisco Tárrega: El Rey de la Guitarra <= 🎙️ T2 #Ep.14 — Francisco Tárrega: El Rey de la Guitarra
+ADDED: Day 4 — Guitarras del Mundo — Lauro interpreta sus propias obras <= #3 Lauro interpreta sus propias obras, además noticias y actualidad de la guitarra
+ADDED: Day 4 — alternative — Antonio Lauro in interview <= T2 #Ep.13 Escuchemos la voz de Antonio Lauro en entrevista
+ADDED: Day 10 — Guitarras del Mundo — Toru Takemitsu: La poesía del silencio <= TP2 #Ep.16 – Toru Takemitsu: La poesía del silencio - Guitarrista Andrea Dieci
+ADDED: Day 17 — Guitarras del Mundo — Sharon Isbin interview / Guitar Passions <= T2 #Ep20 Sharin Isbin, entrevista exclusiva y su album Guitar Passions
+ADDED: Day 18 — Guitarras del Mundo — Reflexiones en torno a la guitarra <= 🎙️ T2 #Ep.15 — Reflexiones en torno a la guitarra
+ADDED: Day 21 — Guitarras del Mundo — Laura Mazón Franqui: la guitarra y su historia <= Hablamos con Laura Mazón Franqui, la guitarra y su historia
+Total playable item count in output: 20
